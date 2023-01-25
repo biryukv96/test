@@ -1,0 +1,14 @@
+[
+	{
+		"email": "no@no.in",
+		"password": "123"
+	},
+	{
+		"email": "yes@yes.in",
+		"password": "123"
+	},
+	{
+		"email": "eve.holt@reqres.in",
+		"password": "pistol"
+	}
+]
