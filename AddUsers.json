@@ -15,4 +15,8 @@
 		"email": "lalala@lalala.in",
 		"password": "lalala"
 	}
+	{
+		"email": "commit",
+		"test": "test"
+	}
 ]
